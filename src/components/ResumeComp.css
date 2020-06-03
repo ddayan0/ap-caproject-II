@@ -1,0 +1,27 @@
+display-8 {
+    text-align: center;
+}
+.fourDesc {
+    font-style: italic;
+}
+.infoDesc {
+    font-style: italic;
+}
+.wozA {
+    font-style: italic;
+}
+.bezoA {
+    font-style: italic;
+}
+.ariA {
+    font-style: italic;
+}
+.oneMoreThing {
+    font-style: italic;
+    text-align: center;
+}
+.jumbotron {
+    height: 100%;
+    overflow: hidden;
+    background-color: #131113;
+}

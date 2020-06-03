@@ -1,0 +1,12 @@
+.footer {
+    text-align: center;
+    background-color: teal;
+    color: white;
+    position: absolute; 
+    /* left: 0;  */
+    bottom: 0;
+    /* right: 0; */
+    width: 100vw;
+    height: 30px;
+    grid-area: footer;
+}
